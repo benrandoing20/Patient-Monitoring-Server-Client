@@ -1,0 +1,8 @@
+INFO:root:The file /Users/benrandoing/Documents/BME_547/class_repos/ecg-analysis-benrandoing20/test_data/test_data23.csv has started analysis.
+INFO:root:The total time has been calculated
+INFO:root:The min and max voltages have been calculated
+INFO:root:The number of peaks has been calculated
+INFO:root:The number of peaks has been calculated
+INFO:root:The peak times have been calculated
+INFO:root:The mean hr has been calculated
+INFO:root:The dictionary has been filled with data values

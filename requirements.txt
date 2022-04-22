@@ -1,0 +1,14 @@
+pytest
+pytest-pycodestyle
+flask
+requests
+pymodm
+pymongo
+dnspython
+coverage
+pycode
+pillow
+matplotlib
+scikit-image
+py-ecg-detectors
+testfixtures
